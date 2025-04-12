@@ -7,3 +7,5 @@ stash
 new branch dev
 вфыавпист
 vbhjmkl
+
+создали ветку на гитхабе
